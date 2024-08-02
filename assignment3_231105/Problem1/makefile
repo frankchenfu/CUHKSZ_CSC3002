@@ -1,0 +1,1 @@
+CXXFLAGS = -std=c++11 "../lib.cpp" -Wall -Wextra -m32 -O2

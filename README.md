@@ -4,7 +4,7 @@ This is an archive of CSC3002 (2023 Fall) course Assignments.
 
 `CSC3002 C/C++ Programming` is a introductory programming course at the Chinese University of Hong Kong, Shenzhen, a.k.a. CUHK(SZ). In this course, our primary programming language is **C++ 11**.
 
-In the 2023 Fall semester, there were **four** assignments for practicing.
+In the 2023 Fall semester, there were **six** assignments for practicing.
 
 ### Acknowledgment
 
